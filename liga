@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+    <head>
+        <title>TODO supply a title</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" type="text/css" href="newcss.css" />   
+    </head>
+    <body>
+        <table>
+            <caption class="Liga">5 premiers de La Liga de la saison 2020-2021(38 matchs)</caption>
+            <tr>
+                <th>place</th>
+                <th>club</th>
+                <th>victoires</th>
+                <th>égalités</th>
+                <th>défaites</th>
+                <th>points</th>
+            </tr>
+            <tr>
+                <th class="bleu">1er</th>
+                <th>Atlético Madrid</th>
+                <th>26</th>
+                <th>8</th>
+                <th>4</th>
+                <th>86</th>
+            </tr>
+            <tr>
+                <th class="bleu">2ème</th>
+                <th>Real Madrid</th>
+                <th>25</th>
+                <th>9</th>
+                <th>4</th>
+                <th>84</th>
+            </tr>
+            <tr>
+                <th class="bleu">3ème</th>
+                <th>Barcelona</th>
+                <th>24</th>
+                <th>7</th>
+                <th>7</th>
+                <th>79</th>
+            </tr>
+            <tr>
+                <th class="bleu">4ème</th>
+                <th>Séville</th>
+                <th>24</th>
+                <th>5</th>
+                <th>9</th>
+                <th>77</th>
+            </tr>
+            <tr>     
+                <th class="orange">5ème</th>
+                <th>Real sociedad</th>
+                <th>17</th>
+                <th>11</th>
+                <th>10</th>
+                <th>62</th>
+            </tr>
+        </table>
+        <ol>
+            <li>légende</li>
+            <ul>
+                <li>en bleu les équipes qualifiées pour la League des Champions</li>
+                <li>en orange les équipes qualifiées pour l' Europa League</li>
+            </ul>
+        </ol>
+        <ol>
+            <li>classements en détail</li>
+            <ul>
+                <li>
+                    <a href="bundesliga.html">Bundesliga</a>
+                </li>
+                <li>
+                    <a href="première league.html">Premier League</a>
+                </li>
+            </ul> 
+            <li>
+                <a href="classement comun.html">classement commun des meilleurs joueurs</a>
+            </li>
+        </ol>
+        <a href="page d'accueil.html">Retour à l'accueil</a>
+    </body>
+</html> 
