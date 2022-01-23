@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+    <head>
+        <title>TODO supply a title</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" type="text/css" href="newcss.css" />   
+    </head>
+    <body>
+        <ol>
+            <li>meilleurs statistiques</li>
+            <ul>
+                <li>buteur</li>
+                <ul>
+                    <li>1er: Lewandowski 41 buts</li>
+                    <li>2ème: Messi 30 buts</li>
+                    <li>3ème: André Silva 28 buts</li>
+                </ul>
+            </ul>
+            <ul>
+                <li>passeur</li>
+                <ul>
+                    <li>1er: Müller 18 passes décisives</li>
+                    <li>2ème: Kane 14 passes décisives</li>
+                    <li>3ème: Aspas 13 passes décisives</li>
+                </ul>
+            </ul>
+
+        </ol>
+        <ol>
+            <li>classements en détail</li>
+            <ul>
+                <li>
+                    <a href="bundesliga.html">Bundesliga</a>
+                </li>
+                <li>
+                    <a href="La Liga.html">La Liga</a>
+                </li>
+                <li>
+                    <a href="première league.html">Premier League</a>
+                </li>
+            </ul> 
+        </ol>
+        
+        <a href="page d'accueil.html">Retour à l'accueil</a> 
+    </body>
+</html>
