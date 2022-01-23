@@ -1,0 +1,53 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 11 oct. 2021, 14:47:54
+    Author     : ebarreau
+*/
+
+
+h1.titre{
+    color: black;
+    font-family: serif;
+    font-size:80px;
+    text-align: center;
+}
+td{
+    border: 2px solid black
+}
+img.imgg{
+    width: 30%
+}
+table{
+    text-align: center;
+    border: 2px solid black;
+    width: 100%;
+    border-collapse: collapse
+}
+caption{
+    font-size: 200%
+}
+th{
+    border: 2px solid black
+}
+caption.bundes{
+    color: red;
+    font-size: 300%
+}
+th.bleu{
+    color: blue
+}
+th.orange{
+    color: orange
+}
+caption.Liga{
+    color: blue;
+    font-size: 300%
+}
+caption.pl{
+    color: purple;
+    font-size: 300%
+}
