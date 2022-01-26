@@ -54,9 +54,8 @@ caption.pl{
 }
 p{
     position: absolute;
-    bottom:95%
+    bottom:92%
 }
 iframe{
-    width="700";
-    height="500"
+    width: 30%;
 }
