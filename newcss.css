@@ -57,7 +57,8 @@ p.email{
     bottom:92%
 }
 iframe{
-    width: 30%;
+    width: 600px;
+    height: 400px
 }
 body.classement{
     font-size:200%
