@@ -54,11 +54,12 @@ caption.pl{
 }
 p.email{
     position: absolute;
-    bottom:92%
+    bottom: 92%
 }
 iframe{
     width: 500px;
-    height: 300px
+    height: 300px;
+    bottom: 25%
 }
 body.classement{
     font-size:200%
